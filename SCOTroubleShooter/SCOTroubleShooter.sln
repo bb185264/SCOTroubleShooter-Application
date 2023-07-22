@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCOTroubleShooter", "SCOTroubleShooter\SCOTroubleShooter.csproj", "{DB094B2E-D6A2-429A-BDB4-81555CA84ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communicator", "Communicator\Communicator.csproj", "{BCE4E5DE-EB66-4239-8C89-507CEABAA0A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB094B2E-D6A2-429A-BDB4-81555CA84ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB094B2E-D6A2-429A-BDB4-81555CA84ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB094B2E-D6A2-429A-BDB4-81555CA84ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB094B2E-D6A2-429A-BDB4-81555CA84ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE4E5DE-EB66-4239-8C89-507CEABAA0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE4E5DE-EB66-4239-8C89-507CEABAA0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE4E5DE-EB66-4239-8C89-507CEABAA0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE4E5DE-EB66-4239-8C89-507CEABAA0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\NCR\Desktop\testAPP\SCOTroubleShooter\SCOTroubleShooter\bin\Debug\SCOTroubleShooter.exe.config
+C:\Users\NCR\Desktop\testAPP\SCOTroubleShooter\SCOTroubleShooter\obj\Debug\SCOTroubleShooter.csprojResolveAssemblyReference.cache
+C:\Users\NCR\Desktop\testAPP\SCOTroubleShooter\SCOTroubleShooter\obj\Debug\SCOTroubleShooter.ChangeNotifyControl.resources
+C:\Users\NCR\Desktop\testAPP\SCOTroubleShooter\SCOTroubleShooter\obj\Debug\SCOTroubleShooter.Properties.Resources.resources
+C:\Users\NCR\Desktop\testAPP\SCOTroubleShooter\SCOTroubleShooter\obj\Debug\SCOTroubleShooter.csproj.GenerateResource.Cache
